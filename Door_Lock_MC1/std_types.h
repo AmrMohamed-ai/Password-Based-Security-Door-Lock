@@ -5,7 +5,7 @@
  * File Name: std_types.h
  *
  * Description: types for AVR
- * Author: Mohamed Tarek
+ * Author: Amr Mohamed
  *
  *******************************************************************************/
 
