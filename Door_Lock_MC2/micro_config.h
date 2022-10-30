@@ -6,7 +6,7 @@
  *
  * Description: File include all Microcontroller libraries
  *
- * Author: Mohamed Tarek
+ * Author: Amr Mohamed
  *
  *******************************************************************************/
 
