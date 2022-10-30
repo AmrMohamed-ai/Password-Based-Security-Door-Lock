@@ -5,7 +5,7 @@
  * File Name: keypad.c
  *
  * Description: Source file for the Keypad driver
- * Author: Mohamed Tarek
+ * Author: Amr Mohamed
  *
  *******************************************************************************/
 
